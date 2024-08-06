@@ -21,7 +21,7 @@ keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
 # 网站描述
 description: 个人网址集
 # 个人主页
-home_url: https://www.imkk.uk/
+home_url: 
 # 个人邮箱
 email: tcryanwp@gmail.com
 # GitHub链接
@@ -34,13 +34,13 @@ categories:
     icon: fa-solid fa-star
     links:
       - title: 主页
-        logo: https://cdn.imkk.uk/icon/svg/Home.svg
-        url: https://www.imkk.uk/
+        logo: 
+        url: 
         description: 我的主页, 欢迎访问
       - title: 博客
-        logo: https://cdn.imkk.uk/icon/svg/Blog.svg
-        url: https://blog.imkk.uk/
-        description: 我的博客, 欢迎留言
+        logo: 
+        url: 
+        description: 我的博客, 欢迎访问
       - title: 监测站
         logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
         url: https://monitor.imkk.uk/
